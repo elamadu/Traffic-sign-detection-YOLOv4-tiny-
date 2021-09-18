@@ -5,6 +5,8 @@
     <li>
        Classes and class distribution </h2>
     </li>
-    <li>Second item</li>
+    <li>
+      Training
+    </li>
   </ol>
 </h2>
