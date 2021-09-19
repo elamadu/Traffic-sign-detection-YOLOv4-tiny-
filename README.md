@@ -4,6 +4,9 @@
 ## 1. Classes and class distribution
 <p align = "center">
   <img src = "img/0.png">
+  
 </p>
+{% include image.html img="img/0.png" title="" caption="testt" %}
+![An image](images/an_image.jpg) <!-- .element height="50%" width="50%" -->
 
 ## 2. Training
