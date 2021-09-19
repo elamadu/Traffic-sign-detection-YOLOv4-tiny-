@@ -3,7 +3,7 @@
 
 ## 1. Classes and class distribution
 <div>
-  <p style="text-align:center"> 0 <img src="img/0.png" width="25" height="25"/> </p>
+  <p style="text-align:center"> 0 <img src="img/0.png" width="50" height="50"/> </p>
     1 <img src="img/1.png"/>
     2 <img src="img/2.png"/>
 </div>
