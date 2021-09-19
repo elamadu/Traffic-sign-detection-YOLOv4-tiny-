@@ -11,7 +11,7 @@
     6 <img src="img/6.png"width="75" height="75"/>
     7 <img src="img/7.png"width="75" height="75"/>
     8 <img src="img/8.png"width="75" height="75"/>
-    9 <img src="img/9.png"width="75" height="75"/>
+    9 <img src="img/9.png"width="75" height="75"/> <br>
     10 <img src="img/10.png"width="75" height="75"/>
     11 <img src="img/11.png"width="75" height="75"/>
     12 <img src="img/12.png"width="75" height="75"/>
@@ -21,7 +21,7 @@
     16 <img src="img/16.png"width="75" height="75"/>
     17 <img src="img/17.png"width="75" height="75"/>
     18 <img src="img/18.png"width="75" height="75"/>
-    19 <img src="img/19.png"width="75" height="75"/>
+    19 <img src="img/19.png"width="75" height="75"/> <br>
     20 <img src="img/20.png"width="75" height="75"/>
     21 <img src="img/21.png"width="75" height="75"/>
     22 <img src="img/22.png"width="75" height="75"/> 
