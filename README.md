@@ -20,15 +20,15 @@
     15 <img src="img/15.png"width="75" height="75"/>
     16 <img src="img/16.png"width="75" height="75"/>
     17 <img src="img/17.png"width="75" height="75"/>
-    18 <img src="img/18.png"width="75" height="75"/>
-    19 <img src="img/19.png"width="75" height="75"/> <br>
+    18 <img src="img/18.png"width="75" height="75"/> <br>
+    19 <img src="img/19.png"width="75" height="75"/> 
     20 <img src="img/20.png"width="75" height="75"/>
     21 <img src="img/21.png"width="75" height="75"/>
     22 <img src="img/22.png"width="75" height="75"/> 
     23 <img src="img/23.png"width="75" height="75"/>
     24 <img src="img/24.png"width="75" height="75"/>
     25 <img src="img/25.png"width="75" height="75"/>
-    26 <img src="img/26.png"width="75" height="75"/>
+    26 <img src="img/26.png"width="75" height="75"/> <br>
     27 <img src="img/27.png"width="75" height="75"/>
     28 <img src="img/28.png"width="75" height="75"/>
     29 <img src="img/29.png"width="75" height="75"/>
