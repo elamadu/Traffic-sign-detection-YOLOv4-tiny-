@@ -7,8 +7,8 @@
   The 30 traffic sign are grouped in to the follow 3 classes.
   <p><img src="yolo_classes.png"/></p>
   <p>
-    <img src="img/yolo_train_3.png"width="500" height="500"/>
-    <img src="img/yolo_test_3.png" width="500" height="500" =/>
+    <img src="img/yolo_train_3.png"width="400" height="400"/>
+    <img src="img/yolo_test_3.png" width="400" height="400" =/>
   </p>
 
  ### 1.2 Class distribution
