@@ -28,8 +28,8 @@
     23 <img src="img/23.png"width="75" height="75"/>
     24 <img src="img/24.png"width="75" height="75"/>
     25 <img src="img/25.png"width="75" height="75"/>
-    26 <img src="img/26.png"width="75" height="75"/> <br>
-    27 <img src="img/27.png"width="75" height="75"/>
+    26 <img src="img/26.png"width="75" height="75"/> 
+    27 <img src="img/27.png"width="75" height="75"/> <br>
     28 <img src="img/28.png"width="75" height="75"/>
     29 <img src="img/29.png"width="75" height="75"/>
 </p> 
