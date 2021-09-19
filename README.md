@@ -3,8 +3,9 @@
 
 ## 1. Classes and class distribution
 <div>
-  <p style="text-align:center"> 0 <img src="img/0.png" width="50" height="50"/> </p>
-    1 <img src="img/1.png"/>
-    2 <img src="img/2.png"/>
+  <p style="text-align:center"> 0 <img src="img/0.png" width="75" height="75"/> 
+    1 <img src="img/1.png" width="75" height="75"/>
+    2 <img src="img/2.png"width="75" height="75"/>
+  </p> 
 </div>
 ## 2. Training
