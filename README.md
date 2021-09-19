@@ -3,14 +3,8 @@
 
 ## 1. Classes and class distribution
 <div>
-   <div style="text-align:center">
-    0 <img src="img/0.png" alt="alt attribute goes here!" title="This is a Title"/>
-  </div>
-  <div style="text-align:center">
-    1 <img src="img/1.png" alt="alt attribute goes here!" title="This is a Title"/>
-  </div>
-  <div style="text-align:center">
-    2 <img src="img/2.png" alt="alt attribute goes here!" title="This is a Title"/>
-  </div>
+  <p style="text-align:center"> 0 <img src="img/0.png"/> </p>
+    1 <img src="img/1.png"/>
+    2 <img src="img/2.png"/>
 </div>
 ## 2. Training
