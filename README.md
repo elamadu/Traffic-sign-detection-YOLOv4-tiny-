@@ -3,7 +3,9 @@
 
 ## 1. Classes and class distribution
   ### 1.1 Classes
-  
+  The 30 traffic sign are grouped in to the follow 3 classes.
+  <p><img src="yolo_classes.png" alt="alt attribute goes here!" title="This is a Title"/></p>
+
  ### 1.2 Class distribution
  ### Classifier:
      
