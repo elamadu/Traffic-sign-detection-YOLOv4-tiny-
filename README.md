@@ -6,5 +6,11 @@
    <div style="text-align:center">
     0 <img src="img/0.png" alt="alt attribute goes here!" title="This is a Title"/>
   </div>
+  <div style="text-align:center">
+    1 <img src="img/1.png" alt="alt attribute goes here!" title="This is a Title"/>
+  </div>
+  <div style="text-align:center">
+    2 <img src="img/2.png" alt="alt attribute goes here!" title="This is a Title"/>
+  </div>
 </div>
 ## 2. Training
